@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SwiftyAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java Downloads/SwiftyAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

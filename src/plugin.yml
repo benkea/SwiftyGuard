@@ -1,0 +1,7 @@
+name: SwiftyGuard
+main: me.wingedmlgpro.swiftyguard.Regions
+version: 1.0
+author: WingedMLGPro
+commands:
+  region:
+    usage: /<command>

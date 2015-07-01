@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SwiftyGuard:jar">
+    <output-path>$PROJECT_DIR$/../../Java</output-path>
+    <root id="archive" name="SwiftyGuard.jar">
+      <element id="module-output" name="SwiftyGuard" />
+    </root>
+  </artifact>
+</component>
